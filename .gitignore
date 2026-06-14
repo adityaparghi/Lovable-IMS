@@ -48,3 +48,4 @@ build/
 coverage/
 /.cache/
 /*.local
+.env
